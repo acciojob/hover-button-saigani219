@@ -1,7 +1,8 @@
 #btn{
-	background-color: black;
+	border:0px none rgb(255,255,255);
+	background-color:black;
+	color:white;
 	border-radius:5px;
-	color: white;
 }
 #btn:hover{
 	background-color:yellow;
